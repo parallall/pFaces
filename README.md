@@ -44,16 +44,16 @@ We will be contiously priding examples on using pFaces in this repo.
 
 First, download the pFaces version that works with your current operating system form the [releases section](https://github.com/parallall/pFaces/releases).
 
-## Windows
+## For Windows
 
-1- Make sure you install the required drivers or OpenCL runtimes for the targeted devices.
-1- Make sure you have [latest MS Visual C++ libraries](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+	1- Make sure you install the required drivers or OpenCL runtimes for the targeted devices.
+	2- Make sure you have [latest MS Visual C++ libraries](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+	3- Run the install script (install.bat).
 
+## For Linux/MacOs
 
-## Linux/MacOs
-
-1- Install the OpenCL drivers. You may consider the helper scripts in **pfaces-sdk/build-utils**.
-2- Run the [install script (install.sh)](./install.sh) in from a terminal using your preferred sh, bash or dash.
+	1- Install the OpenCL drivers. You may consider the helper scripts in **pfaces-sdk/build-utils**.
+	2- Run the install script (install.sh) in from a terminal using your preferred sh, bash or dash.
 
 
 # Kickstart Examples
