@@ -42,6 +42,7 @@ We will be contiously priding examples on using pFaces in this repo.
   
 # Installation
 
+First, download the pFaces version that works with your current operating system form the [releases section](https://github.com/parallall/pFaces/releases).
 
 ## Windows
 
