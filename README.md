@@ -31,6 +31,14 @@ A kernel driver is responsible for rendering the kernel to match the devices and
 Kernel files migh contain several OpenCL-functions and the kernel driver coordinates the exections as desired. 
 Afterwards, pFaces takes care of running the kernel using all targeted devices. 
 
+## Example Kernels
+
+The following are open-source software tools that use pFaces for acceleration. Users can benifit from those tools to have an idea how pFaces work:
+- [AMYTISS](https://github.com/mkhaled87/pFaces-AMYTISS): A pFaces's kernel on for parallel automated controller synthesis for large-scale stochastic systems.
+- [PIRK](https://github.com/alexdevonport/pfaces-pirk): A utility for parallel computation of interval overapproximations to reachable sets of nonlinear control systems.
+ 
+We will be contiously priding examples on using pFaces in this repo.
+
   
 # Installation
 
@@ -46,14 +54,6 @@ Afterwards, pFaces takes care of running the kernel using all targeted devices.
 1- Install the OpenCL drivers. You may consider the helper scripts in **pfaces-sdk/build-utils**.
 2- Run the [install script (install.sh)](./install.sh) in from a terminal using your preferred sh, bash or dash.
 
-
-# Example Kernels
-
-The following are open-source software tools that use pFaces for acceleration. Users can benifit from those tools to have an idea how pFaces work:
-- [AMYTISS](https://github.com/mkhaled87/pFaces-AMYTISS): A pFaces's kernel on for parallel automated controller synthesis for large-scale stochastic systems.
-- [PIRK](https://github.com/alexdevonport/pfaces-pirk): A utility for parallel computation of interval overapproximations to reachable sets of nonlinear control systems.
- 
-We will be contiously priding examples on using pFaces in this repo.
 
 # Kickstart Examples
 The following list of commands show kickstart examples that makes you familiar with pFaces.
