@@ -37,7 +37,7 @@ The following are open-source software tools that use pFaces for acceleration. U
 - [AMYTISS](https://github.com/mkhaled87/pFaces-AMYTISS): A pFaces's kernel on for parallel automated controller synthesis for large-scale stochastic systems.
 - [PIRK](https://github.com/alexdevonport/pfaces-pirk): A utility for parallel computation of interval overapproximations to reachable sets of nonlinear control systems.
  
-We will be contiously priding examples on using pFaces in this repo.
+We will be contiously providing examples on using pFaces in this [Wiki page](https://github.com/parallall/pFaces/wiki/Examples).
 
   
 # Installation
