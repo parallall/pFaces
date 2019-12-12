@@ -1,5 +1,7 @@
 # pFaces
 
+![pFaces](https://github.com/parallall/pFaces/blob/master/pfaces_title.png?raw=true)
+
 pFaces is a generic Cloud-ready, multi-compute-platform accelerator for parallel algorithms. pFaces is a commertial acceleration ecosystem that runs on many compute platform, from embedded systems to clusters in the Cloud. Here, we provide here a demo version of pFaces with limited functionalities so that developers and interested users can prototye their codes before launching it in the full version of pFaces.
 
 More about pFaces can be found in [pFaces Wiki](https://github.com/parallall/pFaces/wiki).
