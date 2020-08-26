@@ -15,5 +15,7 @@ First, download the pFaces version that works with your current operating system
 
 # Kickstart Examples
 
-Download and install pFacaes and then read [pFaces Wiki/Getting Started](https://github.com/parallall/pFaces/wiki/Getting-Started)
+Download and install pFacaes and then read [pFaces Wiki/Getting Started](https://github.com/parallall/pFaces/wiki/Getting-Started).
+
+Continously-updated examples for pFaces can be found in the [examples repository](https://github.com/parallall/pFacesExamples).
 
