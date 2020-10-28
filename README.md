@@ -7,7 +7,7 @@ pFaces is a generic Cloud-ready, multi-compute-platform accelerator for parallel
 More about pFaces can be found in [pFaces Wiki](https://github.com/parallall/pFaces/wiki).
 
 # Downloading pFaces
-You can find the latest version of pFaces (demo) in the [releases section](https://github.com/parallall/pFaces/releases).
+You can find the [latest version](https://github.com/parallall/pFaces/releases/latest) of pFaces (demo) in the [releases section](https://github.com/parallall/pFaces/releases).
   
 # Installation
 
